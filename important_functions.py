@@ -18,4 +18,3 @@ num = int(input('Enter number: '))
 for i in range(num):
     print(f'{i + 1} : {fibonacci(i + 1)}')
     
-#print(fibonacci(num))
